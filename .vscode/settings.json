@@ -1,0 +1,4 @@
+{
+    "jupyter.useDefaultConfigForJupyter": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
